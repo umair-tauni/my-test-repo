@@ -1,2 +1,2 @@
-# my-test-repo minor update
+# my-test-repo
 Practice repository for learning git
