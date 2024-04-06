@@ -1,5 +1,3 @@
-Crimson
-Orange
 Blue
 Cyan
 Yellow
