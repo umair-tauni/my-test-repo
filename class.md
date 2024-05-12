@@ -1,3 +1,5 @@
+Alan
+Meta Front-End Developer
 
 Elias 
 Version Control system
