@@ -10,4 +10,3 @@ Silver
 Fuchsia
 Purple
 Brown
-Red
